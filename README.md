@@ -7,7 +7,8 @@
 - Per-triangle optimized.
 - Able to handle hundreads of casters.
 - Offering the same quality as the paid engines on the YYC marketplace.
-- And it looks neat!
+- And it looks neat!  
+
 ### Compactible with:
 <img align="middle" width="128" height="128" src="https://s21.postimg.org/vghqza03r/rounded_corners.png">
 <img align="middle" src="https://s10.postimg.org/tvc4uhp3t/Lateralgmlogo.png">
